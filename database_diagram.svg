@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1650 1200" width="1650" height="1200" font-family="Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNDdmMDBmOS04MmFkLTRmNTAtOWZkYi1iMjA2ZGM2YWJlYTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOuwXJywOTGZtBIEr/1I3V4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNDI3NmI3MS1mMzhlLTQ5NmMtYTM2Ni01OTM0YTdkMmQ3MzdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo24bi97QHFijY1leDwxDB1wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggwJtHgAuzNhO481/ZOexbMxJopICmi8F1qHuynv/VW7GkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP+FZv362VIZk00Vzjh+0VwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAwBZuAai0YTwPId/uNUMnhEx+/P1EzkXnXSWHNVwRxgmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM0N2YwMGY5LTgyYWQtNGY1MC05ZmRiLWIyMDZkYzZhYmVhNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjRhOGNkYTBmLWJiMWUtNDg1ZS1iMzBhLTlhYjFmMjk2ZDJkMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDAm0eAC7M2E7jzX9k57FszEmikgKaLwXWoe7Ke/9VbsaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggCPzv3oh1zZYXDzrvs4eNaENk1UHjwqV/HhqDPfSwXrCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggNsO3uYUkxnYr/pQh4CmqxeUAdzfZgQW4ejGNanz28+h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOxndKuFc34sDL+vs9RK5jk6gfCYZuHswEonUfIHIG7eIa8VZRw9lolC+CNjKsI9G/+KGUAq+C2gdL04TepkzJo=</c2pa:manifest></metadata>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#374151"/>
+</marker>
+<marker id="diamond" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="14" markerHeight="10" orient="auto-start-reverse">
+  <path d="M1,5 L8,1 L15,5 L8,9 z" fill="#ffffff" stroke="#374151" stroke-width="1"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="1650" height="1200" fill="#ffffff"/>
+<text x="825.0" y="38" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#111827">Real Estate Management Application — Database (ER) Diagram</text>
+<rect x="700" y="70" width="260" height="177" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="700" y="70" width="260" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="700" y="94" width="260" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="830.0" y="90" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Users</text>
+<text x="710" y="115" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="950" y="115" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="700" y="121" width="260" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="710" y="136" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">name</text>
+<text x="950" y="136" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<text x="710" y="157" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">email</text>
+<text x="950" y="157" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR (unique)</text>
+<rect x="700" y="163" width="260" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="710" y="178" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">password_hash</text>
+<text x="950" y="178" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<text x="710" y="199" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">phone</text>
+<text x="950" y="199" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<rect x="700" y="205" width="260" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="710" y="220" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">role</text>
+<text x="950" y="220" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Buyer,Seller,Agent)</text>
+<text x="710" y="241" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">created_at</text>
+<text x="950" y="241" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="700" y1="100" x2="960" y2="100" stroke="#374151" stroke-width="1.2"/>
+<rect x="650" y="340" width="310" height="282" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="650" y="340" width="310" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="650" y="364" width="310" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="805.0" y="360" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Properties</text>
+<text x="660" y="385" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="950" y="385" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="650" y="391" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="406" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  seller_id</text>
+<text x="950" y="406" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="660" y="427" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  agent_id</text>
+<text x="950" y="427" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID (nullable)</text>
+<rect x="650" y="433" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="448" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">title</text>
+<text x="950" y="448" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<text x="660" y="469" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">description</text>
+<text x="950" y="469" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">TEXT</text>
+<rect x="650" y="475" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="490" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">price</text>
+<text x="950" y="490" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DECIMAL</text>
+<text x="660" y="511" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">listing_type</text>
+<text x="950" y="511" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Sale,Rent)</text>
+<rect x="650" y="517" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="532" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">property_type</text>
+<text x="950" y="532" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<text x="660" y="553" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">location</text>
+<text x="950" y="553" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<rect x="650" y="559" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="574" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">status</text>
+<text x="950" y="574" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Draft,Active,UnderOffer,Sold,Rented)</text>
+<text x="660" y="595" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">created_at</text>
+<text x="950" y="595" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<rect x="650" y="601" width="310" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="660" y="616" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">updated_at</text>
+<text x="950" y="616" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="650" y1="370" x2="960" y2="370" stroke="#374151" stroke-width="1.2"/>
+<rect x="60" y="340" width="230" height="114" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="60" y="340" width="230" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="60" y="364" width="230" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="175.0" y="360" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">PropertyImages</text>
+<text x="70" y="385" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="280" y="385" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="60" y="391" width="230" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="70" y="406" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="280" y="406" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="70" y="427" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">image_url</text>
+<text x="280" y="427" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">VARCHAR</text>
+<rect x="60" y="433" width="230" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="70" y="448" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">sort_order</text>
+<text x="280" y="448" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">INT</text>
+<line x1="60" y1="370" x2="290" y2="370" stroke="#374151" stroke-width="1.2"/>
+<rect x="60" y="620" width="230" height="135" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="60" y="620" width="230" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="60" y="644" width="230" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="175.0" y="640" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">StatusHistory</text>
+<text x="70" y="665" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="280" y="665" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="60" y="671" width="230" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="70" y="686" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="280" y="686" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="70" y="707" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">previous_status</text>
+<text x="280" y="707" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM</text>
+<rect x="60" y="713" width="230" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="70" y="728" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">new_status</text>
+<text x="280" y="728" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM</text>
+<text x="70" y="749" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">changed_at</text>
+<text x="280" y="749" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="60" y1="650" x2="290" y2="650" stroke="#374151" stroke-width="1.2"/>
+<rect x="330" y="650" width="250" height="156" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="330" y="650" width="250" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="330" y="674" width="250" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="455.0" y="670" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Offers</text>
+<text x="340" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="570" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="330" y="701" width="250" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="340" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="570" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="340" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  buyer_id</text>
+<text x="570" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="330" y="743" width="250" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="340" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">amount</text>
+<text x="570" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DECIMAL</text>
+<text x="340" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">status</text>
+<text x="570" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Pending,Accepted,Rejected)</text>
+<rect x="330" y="785" width="250" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="340" y="800" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">submitted_at</text>
+<text x="570" y="800" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="330" y1="680" x2="580" y2="680" stroke="#374151" stroke-width="1.2"/>
+<rect x="610" y="650" width="280" height="177" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="610" y="650" width="280" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="610" y="674" width="280" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="750.0" y="670" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">RentalApplications</text>
+<text x="620" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="880" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="610" y="701" width="280" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="620" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="880" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="620" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  buyer_id</text>
+<text x="880" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="610" y="743" width="280" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="620" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">move_in_date</text>
+<text x="880" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATE</text>
+<text x="620" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">notes</text>
+<text x="880" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">TEXT (nullable)</text>
+<rect x="610" y="785" width="280" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="620" y="800" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">status</text>
+<text x="880" y="800" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Pending,Accepted,Rejected)</text>
+<text x="620" y="821" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">submitted_at</text>
+<text x="880" y="821" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="610" y1="680" x2="890" y2="680" stroke="#374151" stroke-width="1.2"/>
+<rect x="930" y="650" width="220" height="114" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="930" y="650" width="220" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="930" y="674" width="220" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="1040.0" y="670" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Favourites</text>
+<text x="940" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="1140" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="930" y="701" width="220" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="940" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  buyer_id</text>
+<text x="1140" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="940" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="1140" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="930" y="743" width="220" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="940" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">saved_at</text>
+<text x="1140" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="930" y1="680" x2="1150" y2="680" stroke="#374151" stroke-width="1.2"/>
+<rect x="1190" y="650" width="250" height="135" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="1190" y="650" width="250" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="1190" y="674" width="250" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="1315.0" y="670" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Enquiries</text>
+<text x="1200" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="1430" y="695" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="1190" y="701" width="250" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="1200" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="1430" y="716" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="1200" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  buyer_id</text>
+<text x="1430" y="737" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="1190" y="743" width="250" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="1200" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">message</text>
+<text x="1430" y="758" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">TEXT</text>
+<text x="1200" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">created_at</text>
+<text x="1430" y="779" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<line x1="1190" y1="680" x2="1440" y2="680" stroke="#374151" stroke-width="1.2"/>
+<rect x="610" y="950" width="280" height="135" rx="5" fill="#ffffff" stroke="#374151" stroke-width="1.6"/>
+<rect x="610" y="950" width="280" height="30" rx="5" fill="#1F2937" stroke="#374151" stroke-width="1.6"/>
+<rect x="610" y="974" width="280" height="6" rx="0" fill="#1F2937" stroke="none" stroke-width="1.5"/>
+<text x="750.0" y="970" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Viewings</text>
+<text x="620" y="995" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#B45309">PK  id</text>
+<text x="880" y="995" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="610" y="1001" width="280" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="620" y="1016" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  property_id</text>
+<text x="880" y="1016" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<text x="620" y="1037" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="bold" text-anchor="start" fill="#2563EB">FK  buyer_id</text>
+<text x="880" y="1037" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">UUID</text>
+<rect x="610" y="1043" width="280" height="21" rx="0" fill="#F9FAFB" stroke="none" stroke-width="1.5"/>
+<text x="620" y="1058" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">scheduled_at</text>
+<text x="880" y="1058" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">DATETIME</text>
+<text x="620" y="1079" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" text-anchor="start" fill="#1f2937">status</text>
+<text x="880" y="1079" font-family="Helvetica, Arial, sans-serif" font-size="10.2" font-weight="normal" text-anchor="end" fill="#6b7280">ENUM(Requested,Confirmed,Completed,Cancelled)</text>
+<line x1="610" y1="980" x2="890" y2="980" stroke="#374151" stroke-width="1.2"/>
+<line x1="650" y1="481.0" x2="290" y2="397.0" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="644" y="476.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">1</text>
+<text x="296" y="392.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">0..*</text>
+<line x1="650" y1="481.0" x2="290" y2="687.5" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="644" y="476.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">1</text>
+<text x="296" y="682.5" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">0..*</text>
+<line x1="805.0" y1="622" x2="455.0" y2="650" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="799.0" y="617" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">1</text>
+<text x="461.0" y="645" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">0..*</text>
+<line x1="805.0" y1="622" x2="750.0" y2="650" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="799.0" y="617" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">1</text>
+<text x="756.0" y="645" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">0..*</text>
+<line x1="805.0" y1="622" x2="1040.0" y2="650" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="811.0" y="617" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="1034.0" y="645" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<line x1="805.0" y1="622" x2="1315.0" y2="650" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="811.0" y="617" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="1309.0" y="645" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<polyline points="805.0,622 805.0,637 600,637 600,950 750.0,950" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="811.0" y="617" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="744.0" y="944" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<polyline points="720.8,247 720.8,300 455.0,300 455.0,650" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="726.8" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="455.0" y="644" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="455.0" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">buyer_id</text>
+<polyline points="762.4,247 762.4,300 600,300 600,650 750.0,650" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="768.4" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="744.0" y="644" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="600" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">buyer_id</text>
+<polyline points="804.0,247 804.0,300 727.5,300 727.5,340" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="810.0" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="727.5" y="334" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="727.5" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">seller_id</text>
+<polyline points="845.6,247 845.6,300 882.5,300 882.5,340" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="851.6" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="882.5" y="334" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..1</text>
+<text x="882.5" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">agent_id</text>
+<polyline points="887.2,247 887.2,300 600,300 600,950 750.0,950" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="893.2" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="744.0" y="944" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="600" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">buyer_id</text>
+<polyline points="918.4,247 918.4,300 1040.0,300 1040.0,650" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="924.4" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="1040.0" y="644" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="1040.0" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">buyer_id</text>
+<polyline points="947.0,247 947.0,300 1315.0,300 1315.0,650" fill="none" stroke="#9ca3af" stroke-width="1.3"/>
+<text x="953.0" y="242" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#4b5563">1</text>
+<text x="1315.0" y="644" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" text-anchor="end" fill="#4b5563">0..*</text>
+<text x="1315.0" y="292" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#111827" font-style="italic">buyer_id</text>
+<text x="1420" y="915" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#111827">Legend</text>
+<text x="1420" y="940" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#B45309">PK</text>
+<text x="1455" y="940" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#374151">Primary key</text>
+<text x="1420" y="962" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#2563EB">FK</text>
+<text x="1455" y="962" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#374151">Foreign key</text>
+<text x="1420" y="984" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#374151">1 — 0..*</text>
+<text x="1480" y="984" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#374151">one-to-many</text>
+</svg>
